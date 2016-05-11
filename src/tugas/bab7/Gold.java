@@ -17,6 +17,8 @@ public class Gold extends Member {
         System.out.println("Anda terdaftar sebagai Member GOLD");
         System.out.println("-Diskon Pelayanan sebesar 15%");
         System.out.println("-Diskon Produk sebesar 10%");
+        System.out.println("========================================");
+        System.out.println("");
     }    
     public double biaya(){
         double total;

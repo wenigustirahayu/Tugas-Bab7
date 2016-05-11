@@ -21,6 +21,8 @@ public class Silver extends Member {
         System.out.println("Anda terdaftar sebagai Member SILVER");
         System.out.println("Diskon Pelayanan sebesar 10%");
         System.out.println("Diskon Produk sebesar 10%");
+        System.out.println("========================================");
+        System.out.println("");
     }
 
     public double biaya() {

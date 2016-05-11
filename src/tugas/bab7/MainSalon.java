@@ -47,7 +47,7 @@ public class MainSalon {
                     pr.Salon();
                     pr.tampilkan();
                     System.out.println("Total Pembayaran   : Rp." + pr.biaya());
-                    System.out.println("===================================");
+                    System.out.println("========================================");
                     System.out.println("           Terima Kasih            ");
                     System.out.println();
                     break;
@@ -66,7 +66,7 @@ public class MainSalon {
                     go.Salon();
                     go.tampilkan();
                     System.out.println("Total Pembayaran   : Rp." + go.biaya());
-                    System.out.println("===================================");
+                    System.out.println("========================================");
                     System.out.println("           Terima Kasih            ");
                     System.out.println();
                     break;
@@ -85,7 +85,7 @@ public class MainSalon {
                     si.Salon();
                     si.tampilkan();
                     System.out.println("Total Pembayaran   : Rp." + si.biaya());
-                    System.out.println("===================================");
+                    System.out.println("========================================");
                     System.out.println("           Terima Kasih            ");
                     System.out.println();
                     break;
@@ -104,7 +104,7 @@ public class MainSalon {
                     nm.Salon();
                     nm.tampilkan();
                     System.out.println("Total Pembayaran   : Rp." + nm.biaya());
-                    System.out.println("===================================");
+                    System.out.println("========================================");
                     System.out.println("           Terima Kasih            ");
                     System.out.println();
                     break;

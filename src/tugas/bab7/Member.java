@@ -11,6 +11,7 @@ public class Member extends Salon {
     }
 
     public void Salon() {
+        System.out.println("========================================");
         System.out.println("Anda Member");
     }
 

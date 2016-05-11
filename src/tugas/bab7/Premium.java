@@ -15,6 +15,8 @@ public class Premium extends Member{
         System.out.println("Anda terdaftar sebagai Member PREMIUM");
         System.out.println("-Diskon Pelayanan sebesar 20%");
         System.out.println("-Diskon Produk sebesar 10%");
+        System.out.println("========================================");
+        System.out.println("");
     }
     public double biaya(){
         double total;
